@@ -1,0 +1,84 @@
+[
+    {
+        "blockID": 0,
+        "type": 1,
+        "styles": {
+            "backgroundColor": "#ffffff",
+            "padding": "20px 20px 20px 20px",
+            "marginTop": "20px",
+            "marginBottom": "20px",
+            "borderWidth": "1px",
+            "borderStyle": "solid",
+            "borderColor": "#e5e7eb",
+            "borderRadius": "1px"
+        },
+        "childBlocks": [
+            {
+                "blockID": 0,
+                "type": 6,
+                "styles": {
+                    "fontSize": "16px",
+                    "color": "#333333",
+                    "textAlign": "left"
+                },
+                "text": "<p>Lê Anh - Email newsletter</p>"
+            },
+            {
+                "blockID": 0,
+                "type": 10,
+                "spacerHeight": "10px"
+            },
+            {
+                "blockID": 0,
+                "type": 3,
+                "childBlocks": [
+                    {
+                        "blockID": 0,
+                        "type": 11,
+                        "childBlocks": [
+                            {
+                                "blockID": 0,
+                                "type": 7,
+                                "styles": {},
+                                "imageURL": "https://www.w3schools.com/html/pic_trulli.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "blockID": 0,
+                        "type": 11,
+                        "childBlocks": [
+                            {
+                                "blockID": 0,
+                                "type": 7,
+                                "styles": {},
+                                "imageURL": "https://www.w3schools.com/html/pic_trulli.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "blockID": 0,
+                "type": 9,
+                "styles": {
+                    "borderWidth": "1px",
+                    "borderStyle": "solid",
+                    "borderColor": "#e5e7eb"
+                }
+            },
+            {
+                "blockID": 0,
+                "type": 8,
+                "styles": {
+                    "fontSize": "16px",
+                    "color": "#333333",
+                    "textAlign": "left",
+                    "backgroundColor": "#007bff",
+                    "borderRadius": "4px",
+                    "padding": "20px 20px 20px 20px"
+                }
+            }
+        ]
+    }
+]
